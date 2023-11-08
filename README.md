@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome 👋
+
+- 🔭 I am currently working with AEM and studying MBA in Software Engineering at USP.
+
+- 🌱 Here you will find different types of solutions and ideas.
+
+- 🙏 I hope some code here helps you!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanviana&layout=compact&theme=dark&hide_border=true" />
 
 <!--
 **renanviana/renanviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
